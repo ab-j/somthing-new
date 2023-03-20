@@ -1,0 +1,128 @@
+body {
+    margin: 0%;
+    background-color: #EAF6F6;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;;
+}
+#name{
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: large;
+    font-size: 400%;
+    /* line-height: 2; */
+}
+p{
+    padding: 0 20% 0 20%;
+}
+hr{
+    border: 20% dotted #EAF6F6;
+}
+h1{
+    margin: 0px auto 5px auto;
+    /* line-height: 1; */
+}
+h2{
+    margin: 0px auto 20px auto;
+    color: #66BFBF;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    color: #93BFCF;
+
+}
+span{
+    margin: 0px 10px 0 10px;
+}
+.cloud-img1 {
+    width: 10%;
+    position: relative;
+    left: 20%;
+}
+
+.cloud-img2 {
+    left: 25%;
+    top: 40%;
+    position: absolute;
+    width: 10%;
+}
+
+.abj-img {
+    width: 20%;
+}
+
+.mountain-img {
+    width: 60%;
+    right: 1%;
+    position: relative;
+}
+.logo1{
+    width: 10%;
+    float: left;
+    position: relative;
+    left: 10%;
+    margin-right: 10px;
+}
+.para_code{
+    text-align: left;
+
+}
+#Coding{
+
+    position: relative; 
+    right: 30%;
+}
+.logo2{
+    width: 10%;
+    float: right;
+    position: relative;
+    right: 10%;
+    margin-right: 10px;
+}
+#target{
+    /* position: relative;
+    left:30%; */
+    text-align: right;
+    position: relative;
+    right: 10%;
+}
+.para_target{
+    text-align: right;
+}
+.logo3{
+    width: 10%;
+    float: left;
+    position: relative;
+    left: 10%;
+    margin-right: 10px;
+    /* margin-bottom: 200px; */
+}
+#dev{
+    position: relative;
+    right: 23%;
+}
+.para_dev{
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.btn{
+    background-color: #AAE3E2;
+    border-radius: 7px;
+    width: 17%;
+    font-size: 103%;
+    border-style: groove;
+    
+}
+.btn:hover{
+    color: red;
+}
+.hr_inbtwn{
+    
+    color: #3C84AB;
+    border-style: none none dotted none;
+     /* height: 20px; */
+    border-width: 10px;
+    width: 20%;
+}
